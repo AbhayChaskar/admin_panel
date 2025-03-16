@@ -1,13 +1,16 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import React from 'react'
+import 'bootstrap-icons/font/bootstrap-icons.css'
+import 'remixicon/fonts/remixicon.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.min.js'
 import './App.css'
+import Header from './Components/Header/Header'
 
 function App() {
   return (
     <>
       <div>
-        <h1>Admin Panel</h1>
+        <Header/>
       </div>
     </>
   )
