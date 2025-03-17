@@ -63,7 +63,7 @@
 
 .dropdown-menu.notifications {
   width: 320px;
-  max-height: 400px;
+  max-height: 350px;
   overflow-y: auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: none;
