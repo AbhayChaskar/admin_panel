@@ -19,7 +19,7 @@ const NavMessage = () => {
             </li>
             <li className='message-item'>
                 <a href='#'>
-                    <img src='assets/img/messages-1.jpg' alt="" className='rounded-circle'/>
+                    <img src='src/assets/messages-1.png' alt="" className='rounded-circle'/>
                     <div>
                         <h4>Maria Hudson</h4>
                         <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
@@ -34,7 +34,7 @@ const NavMessage = () => {
 
             <li className='message-item'>
                 <a href='#'>
-                    <img src='assets/img/messages-2.jpg' alt="" className='rounded-circle'/>
+                    <img src='src/assets/messages-2.svg' alt="" className='rounded-circle'/>
                     <div>
                         <h4>Maria Hudson</h4>
                         <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
@@ -49,11 +49,11 @@ const NavMessage = () => {
 
             <li className='message-item'>
                 <a href='#'>
-                    <img src='assets/img/messages-1.jpg' alt="" className='rounded-circle'/>
+                    <img src='src/assets/messages-3.png' alt="" className='rounded-circle'/>
                     <div>
                         <h4>Maria Hudson</h4>
                         <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
-                        <p>30 min ago</p>
+                        <p>2 hr. ago</p>
                     </div>
                 </a> 
             </li>
