@@ -1,0 +1,141 @@
+.header-nav ul {
+  list-style: none;
+}
+
+.header-nav > ul {
+  margin: 0;
+  padding: 0;
+}
+
+.header-nav .nav-icon {
+  font-size: 22px;
+  color: #102970;
+  margin-right: 25px;
+  position: relative;
+}
+
+.header-nav .nav-profile {
+  color: #102970;
+}
+
+.header-nav .nav-profile img {
+  max-height: 36px;
+}
+
+.header-nav .nav-profile span {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.header-nav .badge-number {
+  position: absolute;
+  inset: -2px -5px auto auto;
+  font-weight: normal;
+  font-size: 12px;
+  padding: 3px 6px;
+}
+.nav-item.dropdown {
+  position: relative;
+}
+
+.nav-link.nav-icon {
+  display: flex;
+  align-items: center;
+  color: #495057;
+  text-decoration: none;
+  position: relative;
+  padding: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link.nav-icon:hover {
+  color: #0d6efd;
+}
+
+.badge-number {
+  position: absolute;
+  top: 8px;
+  right: 6px;
+  font-size: 0.75rem;
+  padding: 0.25em 0.5em;
+  border-radius: 50%;
+}
+
+.dropdown-menu.notifications {
+  width: 320px;
+  max-height: 400px;
+  overflow-y: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+  border-radius: 12px;
+  padding: 0;
+}
+
+.dropdown-header {
+  padding: 0.75rem 1rem;
+  font-weight: bold;
+  background-color: #f8f9fa;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.notification-item {
+  display: flex;
+  align-items: flex-start;
+  padding: 0.75rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.notification-item:hover {
+  background-color: #f1f1f1;
+}
+
+.notification-item i {
+  font-size: 1.5rem;
+  margin-right: 0.75rem;
+}
+
+.notification-item div {
+  flex: 1;
+}
+
+.notification-item h4 {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+}
+
+.notification-item p {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #6c757d;
+}
+
+.dropdown-footer {
+  padding: 0.75rem 1rem;
+  text-align: center;
+  background-color: #f8f9fa;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.dropdown-footer a {
+  text-decoration: none;
+  color: #0d6efd;
+}
+
+.dropdown-menu.notifications::-webkit-scrollbar {
+  width: 5px;
+}
+
+.dropdown-menu.notifications::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 5px;
+}
+
+.dropdown-menu.notifications::-webkit-scrollbar-track {
+  background: #f8f9fa;
+}
+

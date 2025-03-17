@@ -17,9 +17,6 @@ const NavNoti = () => {
                     </span>
                 </a>
             </li>
-            <li>
-                <hr className='dropdown-divider'/>
-            </li>
             <li className='notification-item'>
                 <i className='bi bi-exclamation-circle text-warning'></i>
                 <div>
