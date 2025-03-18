@@ -192,6 +192,11 @@ const Sidebar = () => {
             </li>
           </ul>
         </li>
+
+        <li className="nav-heading">Pages</li>
+        {NavList.map(nav =>(
+            <NavItem key={nav.id} nav={nav}/>
+        ))}
       </ul>
     </aside>
   );
