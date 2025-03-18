@@ -2,6 +2,7 @@ import React from "react";
 import "./Navbar.css";
 import NavNoti from "./NavNoti";
 import NavMessage from "./NavMessage";
+import NavAvatar from "./NavAvatar";
 
 const Navbar = () => {
   return (
@@ -9,6 +10,7 @@ const Navbar = () => {
       <ul className="d-flex align-items-center">
         <NavNoti />
         <NavMessage/>
+        <NavAvatar/>
       </ul>
     </nav>
   );
