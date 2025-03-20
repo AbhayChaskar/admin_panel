@@ -1,0 +1,10 @@
+.dashboard_page {
+  margin-bottom: 10px;
+}
+
+.dashboard_page h1 {
+  font-size: 24px;
+  margin-bottom: 0;
+  font-weight: 600;
+  color: #012970;
+}
