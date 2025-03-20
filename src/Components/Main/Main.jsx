@@ -5,7 +5,7 @@ import DashboardTitle from "../DashboardTitle/DashboardTitle";
 const Main = () => {
   return (
     <main id="main" className="main">
-      <DashboardTitle/>
+      <DashboardTitle page="Dashboard"/>
     </main>
   );
 };
