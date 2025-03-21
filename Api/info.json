@@ -1,0 +1,181 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Sales",
+      "icon": "bi bi-cart",
+      "amount": 145,
+      "percentage": 0.12,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Revenue",
+      "icon": "bi bi-currency-dollar",
+      "amount": 3246,
+      "percentage": 0.08,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Customers",
+      "icon": "bi bi-people",
+      "amount": 1244,
+      "percentage": -0.11,
+      "active": false
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "img": "",
+      "title": "New Product",
+      "subtitle": "New product available in our store",
+      "category": "abc"
+    },
+    {
+      "id": 2,
+      "img": "",
+      "title": "New Product",
+      "subtitle": "New product available in our store",
+      "category": "abc"
+    },
+    {
+      "id": 3,
+      "img": "",
+      "title": "New Product",
+      "subtitle": "New product available in our store",
+      "category": "abc"
+    },
+    {
+      "id": 4,
+      "img": "",
+      "title": "New Product",
+      "subtitle": "New product available in our store",
+      "category": "abc"
+    }
+  ],
+  "topselling": [
+    {
+      "id": 1,
+      "preview": "",
+      "name": "Product 1",
+      "price": 64,
+      "sales": 124
+    },
+    {
+      "id": 2,
+      "preview": "",
+      "name": "Product 2",
+      "price": 58,
+      "sales": 98
+    },
+    {
+      "id": 3,
+      "preview": "",
+      "name": "Product 3",
+      "price": 43,
+      "sales": 74
+    },
+    {
+      "id": 4,
+      "preview": "",
+      "name": "Product 4",
+      "price": 32,
+      "sales": 63
+    },
+    {
+      "id": 5,
+      "preview": "",
+      "name": "Product 5",
+      "price": 79,
+      "sales": 41
+    }
+  ],
+  "recentsales": [
+    {
+      "id": 1,
+      "number": "#2457",
+      "customer": "Abhay Chaskar",
+      "product": "Product 1",
+      "price": 64,
+      "status": "Approved"
+    },
+    {
+      "id": 2,
+      "number": "#2147",
+      "customer": "Akshay Chaskar",
+      "product": "Product 2",
+      "price": 47,
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "number": "#2459",
+      "customer": "Pallavi Khot",
+      "product": "Product 3",
+      "price": 147,
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "number": "#2644",
+      "customer": "Shubham Kharade",
+      "product": "Product 4",
+      "price": 67,
+      "status": "Rejected"
+    },
+    {
+      "id": 5,
+      "number": "#3592",
+      "customer": "Swarangi Kokate",
+      "product": "Product 5",
+      "price": 79,
+      "status": "Approved"
+    }
+  ],
+  "recentactivity": [
+    {
+      "id": 1,
+      "time": "32 min",
+      "color": "text-success",
+      "content": "Abhay Chaskar purchased Product 1",
+      "highlight": "Product Delivered"
+    },
+    {
+      "id": 2,
+      "time": "1 day",
+      "color": "text-info",
+      "content": "Akshay Chaskar purchased Product 2",
+      "highlight": ""
+    },
+    {
+      "id": 3,
+      "time": "56 min",
+      "color": "text-primary",
+      "content": "Pallavi Khot purchased Product 3",
+      "highlight": ""
+    },
+    {
+      "id": 4,
+      "time": "2 days",
+      "color": "text-danger",
+      "content": "Shubham Kharade purchased Product 4",
+      "highlight": ""
+    },
+    {
+      "id": 5,
+      "time": "4 hrs",
+      "color": "text-warning",
+      "content": "Swarangi Kokate purchased Product 5",
+      "highlight": "Product Delivered"
+    },
+    {
+      "id": 6,
+      "time": "4 weeks",
+      "color": "text-muted",
+      "content": "Abhay Chaskar purchased Product 1",
+      "highlight": ""
+    }
+  ]
+}
