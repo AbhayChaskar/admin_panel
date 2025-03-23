@@ -1,6 +1,6 @@
 import React from "react";
 
-const CardFilter = () => {
+const CardFilter = ({ filterChange }) => {
   return (
     <div className="filter">
       <a className="icon" href="#" data-bs-toggle="dropdown">
