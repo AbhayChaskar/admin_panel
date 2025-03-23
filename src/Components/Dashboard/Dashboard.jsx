@@ -2,6 +2,7 @@ import React from "react";
 import "./Dashboard.css";
 import Info from "../../../Api/info.json";
 import Card from "../Card/Card";
+import Reports from "../Reports/Reports";
 
 const Dashboard = () => {
   return (
@@ -9,7 +10,7 @@ const Dashboard = () => {
       <div className="row">
         <div className="col-lg-8">
           <div className="row">
-          {/* {Info.cards?.map((card) => (
+            {/* {Info.cards?.map((card) => (
               <div className="col-lg-6" key={card.id}>
                 <div className="card">
                   <div className="card-body">
@@ -23,9 +24,13 @@ const Dashboard = () => {
                 </div>
               </div>
             ))} */}
-            {
-              Info.cards?.map(card => <Card key={card.id} card={card} />)
-            }
+            {Info.cards?.map((card) => (
+              <Card key={card.id} card={card} />
+            ))}
+
+            <div className="col-12">
+              <Reports />
+            </div>
           </div>
         </div>
         <div className="col-lg-4"></div>
