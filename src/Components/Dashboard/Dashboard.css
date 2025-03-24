@@ -1,7 +1,7 @@
 .dashboard .filter {
   position: absolute;
   right: 0;
-  top: 15px;
+  top: 20px;
 }
 
 .dashboard .filter .icon {
@@ -33,4 +33,5 @@
 
 .dashboard .filter .dropdown-item {
   padding: 8px 15px;
+  font-size: 14px;
 }

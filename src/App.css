@@ -15,7 +15,7 @@
 
 .card-title {
   padding: 20px 0 15px 0;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   color: #012970;
   letter-spacing: 1px;
@@ -29,7 +29,7 @@
 }
 
 .card-body {
-  padding: 0 20px 20px 20px;
+  padding: 0 20px 15px 20px;
 }
 
 .card-img-overlay {
