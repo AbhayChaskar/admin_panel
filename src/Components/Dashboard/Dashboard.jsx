@@ -2,6 +2,7 @@ import React from "react";
 import "./Dashboard.css";
 import Cards from "../Card/Cards";
 import Reports from "../Reports/Reports";
+import RecentSales from "../RecentSales/RecentSales";
 
 const Dashboard = () => {
   return (
@@ -12,6 +13,9 @@ const Dashboard = () => {
             <Cards />
             <div className="col-12">
               <Reports />
+            </div>
+            <div className="col-12">
+              <RecentSales />
             </div>
           </div>
         </div>
