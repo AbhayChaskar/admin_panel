@@ -3,6 +3,7 @@ import "./Dashboard.css";
 import Cards from "../Card/Cards";
 import Reports from "../Reports/Reports";
 import RecentSales from "../RecentSales/RecentSales";
+import TopSelling from "../TopSelling/TopSelling";
 
 const Dashboard = () => {
   return (
@@ -16,6 +17,9 @@ const Dashboard = () => {
             </div>
             <div className="col-12">
               <RecentSales />
+            </div>
+            <div className="col-12">
+              <TopSelling/>
             </div>
           </div>
         </div>
