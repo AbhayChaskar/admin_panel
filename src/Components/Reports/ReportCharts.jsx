@@ -6,15 +6,15 @@ const ReportCharts = () => {
     series: [
       {
         name: "Sales",
-        data: [31, 40, 28, 51, 42, 82, 56],
+        data: [31, 42, 55, 51, 42, 82, 36],
       },
       {
         name: "Revenue",
-        data: [11, 32, 45, 32, 34, 52, 41],
+        data: [11, 32, 75, 36, 21, 58, 45],
       },
       {
         name: "Customers",
-        data: [15, 11, 32, 18, 9, 24, 11],
+        data: [10, 15, 40, 18, 32, 44, 27],
       },
     ],
     options: {

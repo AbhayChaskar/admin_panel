@@ -58,36 +58,36 @@
   "topselling": [
     {
       "id": 1,
-      "preview": "",
-      "name": "Product 1",
+      "preview": "../assets/items/shoes.webp",
+      "name": "Nike Revolution 7 Men's Road Running Shoes",
       "price": 64,
       "sales": 124
     },
     {
       "id": 2,
-      "preview": "",
-      "name": "Product 2",
+      "preview": "../assets/items/watch.webp",
+      "name": "Carlington Men Stainless Steel Watch-CT6010",
       "price": 58,
       "sales": 98
     },
     {
       "id": 3,
-      "preview": "",
-      "name": "Product 3",
+      "preview": "../assets/items/headphones.png",
+      "name": "JBL Tune JBLT520BTBLU Bluetooth Headphone",
       "price": 43,
       "sales": 74
     },
     {
       "id": 4,
-      "preview": "",
-      "name": "Product 4",
+      "preview": "../assets/items/sunglasses.webp",
+      "name": "Realistic sunglasses with a translucent black glass",
       "price": 32,
       "sales": 63
     },
     {
       "id": 5,
-      "preview": "",
-      "name": "Product 5",
+      "preview": "../assets/items/wallet.avif",
+      "name": "Forest Green Urban Gentleman Leather Men's Wallet",
       "price": 79,
       "sales": 41
     }
@@ -95,41 +95,41 @@
   "recentsales": [
     {
       "id": 1,
-      "number": "#2457",
+      "number": "2457",
       "customer": "Abhay Chaskar",
-      "product": "Product 1",
+      "product": "Nike Revolution 7 Men's Road Running Shoes",
       "price": 64,
       "status": "Approved"
     },
     {
       "id": 2,
-      "number": "#2147",
+      "number": "2147",
       "customer": "Akshay Chaskar",
-      "product": "Product 2",
+      "product": "Carlington Men Stainless Steel Watch-CT6010",
       "price": 47,
       "status": "Pending"
     },
     {
       "id": 3,
-      "number": "#2459",
+      "number": "2459",
       "customer": "Pallavi Khot",
-      "product": "Product 3",
+      "product": "JBL Tune JBLT520BTBLU Bluetooth Headphone",
       "price": 147,
       "status": "Pending"
     },
     {
       "id": 4,
-      "number": "#2644",
+      "number": "2644",
       "customer": "Shubham Kharade",
-      "product": "Product 4",
+      "product": "Realistic sunglasses with a translucent black glass",
       "price": 67,
       "status": "Rejected"
     },
     {
       "id": 5,
-      "number": "#3592",
+      "number": "3592",
       "customer": "Swarangi Kokate",
-      "product": "Product 5",
+      "product": "Forest Green Urban Gentleman Leather Men's Wallet",
       "price": 79,
       "status": "Approved"
     }
