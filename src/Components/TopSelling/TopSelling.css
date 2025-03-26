@@ -1,0 +1,12 @@
+.salesTable {
+  font-size: 14px;
+}
+
+.table tbody td {
+  vertical-align: middle;
+}
+
+.top-selling-img {
+  border-radius: 5px;
+  max-width: 60px;
+}
