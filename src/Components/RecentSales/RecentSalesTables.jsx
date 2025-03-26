@@ -1,5 +1,6 @@
 import React from "react";
 import Info from "../../../Api/info.json";
+import './RecentSales.css';
 
 const RecentSalesTables = () => {
   const handleStatus = (status) => {
@@ -19,10 +20,10 @@ const RecentSalesTables = () => {
   };
 
   return (
-    <table className="table table-borderless datatable">
+    <table className="table table-borderless dataTable">
       <thead className="table-light">
         <tr>
-          <th scope="col">#</th>
+          <th scope="col">SKU</th>
           <th scope="col">Customer</th>
           <th scope="col">Product</th>
           <th scope="col">Price</th>

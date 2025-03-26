@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import CardFilter from "../Card/CardFilter";
 import Info from "../../../Api/info.json";
-
 import "./TopSelling.css";
 import TopSellingItem from "./TopSellingItem";
 
