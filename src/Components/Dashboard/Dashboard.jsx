@@ -4,6 +4,7 @@ import Cards from "../Card/Cards";
 import Reports from "../Reports/Reports";
 import RecentSales from "../RecentSales/RecentSales";
 import TopSelling from "../TopSelling/TopSelling";
+import RecentActivity from "../RecentActivity/RecentActivity";
 
 const Dashboard = () => {
   return (
@@ -23,7 +24,9 @@ const Dashboard = () => {
             </div>
           </div>
         </div>
-        <div className="col-lg-4"></div>
+        <div className="col-lg-4">
+          <RecentActivity/>
+        </div>
       </div>
     </section>
   );
