@@ -139,40 +139,40 @@
       "id": 1,
       "time": "32 min",
       "color": "text-success",
-      "content": "Abhay Chaskar purchased Product 1",
+      "content": "",
       "highlight": "Product Delivered"
     },
     {
       "id": 2,
-      "time": "1 day",
-      "color": "text-info",
+      "time": "57 min",
+      "color": "text-danger",
       "content": "Akshay Chaskar purchased Product 2",
       "highlight": ""
     },
     {
       "id": 3,
-      "time": "56 min",
+      "time": "3 hrs",
       "color": "text-primary",
       "content": "Pallavi Khot purchased Product 3",
       "highlight": ""
     },
     {
       "id": 4,
-      "time": "2 days",
-      "color": "text-danger",
+      "time": "1 day",
+      "color": "text-info",
       "content": "Shubham Kharade purchased Product 4",
       "highlight": ""
     },
     {
       "id": 5,
-      "time": "4 hrs",
+      "time": "3 days",
       "color": "text-warning",
-      "content": "Swarangi Kokate purchased Product 5",
+      "content": "",
       "highlight": "Product Delivered"
     },
     {
       "id": 6,
-      "time": "4 weeks",
+      "time": "2 weeks",
       "color": "text-muted",
       "content": "Abhay Chaskar purchased Product 1",
       "highlight": ""
