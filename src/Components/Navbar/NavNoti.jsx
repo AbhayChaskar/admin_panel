@@ -20,9 +20,9 @@ const NavNoti = () => {
             <li className='notification-item'>
                 <i className='bi bi-exclamation-circle text-warning'></i>
                 <div>
-                    <h4>Lorem Ipsum</h4>
-                    <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
-                    <p>30 min ago</p>
+                    <h4>Warning</h4>
+                    <p>Your session is about to expire. Please save your work!</p>
+                    <p>40 min ago</p>
                 </div>
             </li>
 
@@ -33,9 +33,9 @@ const NavNoti = () => {
             <li className='notification-item'>
                 <i className='bi bi-x-circle text-danger'></i>
                 <div>
-                    <h4>Lorem Ipsum</h4>
-                    <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
-                    <p>1 hr. ago</p>
+                    <h4>Need Action</h4>
+                    <p>You do not have permission to access this section. Contact the administrator if needed.</p>
+                    <p>2 hr. ago</p>
                 </div>
             </li>
 
@@ -46,9 +46,9 @@ const NavNoti = () => {
             <li className='notification-item'>
                 <i className='bi bi-check-circle text-success'></i>
                 <div>
-                    <h4>Lorem Ipsum</h4>
-                    <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
-                    <p>2 hr. ago</p>
+                    <h4>System Update</h4>
+                    <p>A new update is available. Refresh the page to apply changes.</p>
+                    <p>5 hr. ago</p>
                 </div>
             </li>
 
@@ -59,8 +59,8 @@ const NavNoti = () => {
             <li className='notification-item'>
                 <i className='bi bi-info-circle text-proimary'></i>
                 <div>
-                    <h4>Lorem Ipsum</h4>
-                    <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
+                    <h4>Help</h4>
+                    <p>Encountering an issue? Check our Troubleshooting Guide or contact support for assistance.</p>
                     <p>4 hr. ago</p>
                 </div>
             </li>

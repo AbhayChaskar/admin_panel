@@ -21,9 +21,9 @@ const NavMessage = () => {
                 <a href='#'>
                     <img src='src/assets/messages-1.png' alt="" className='rounded-circle'/>
                     <div>
-                        <h4>Maria Hudson</h4>
-                        <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
-                        <p>30 min ago</p>
+                        <h4>Ballaleshwar Raut</h4>
+                        <p>Payment for your order failed. Please update your payment method and try again.</p>
+                        <p>25 min ago</p>
                     </div>
                 </a> 
             </li>
@@ -36,8 +36,8 @@ const NavMessage = () => {
                 <a href='#'>
                     <img src='src/assets/messages-2.svg' alt="" className='rounded-circle'/>
                     <div>
-                        <h4>Maria Hudson</h4>
-                        <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
+                        <h4>Pallavi Khot</h4>
+                        <p>Your order has been placed successfully. Check your email for details.</p>
                         <p>1 hr. ago</p>
                     </div>
                 </a> 
@@ -51,9 +51,9 @@ const NavMessage = () => {
                 <a href='#'>
                     <img src='src/assets/messages-3.png' alt="" className='rounded-circle'/>
                     <div>
-                        <h4>Maria Hudson</h4>
-                        <p>Lorem ipsum, Cupiditate quod eos culpa ab non dicta ipsa fuga.</p>
-                        <p>2 hr. ago</p>
+                        <h4>Akshay Chaskar</h4>
+                        <p>Good news! Your order has been shipped and is on its way. Track your shipment for updates.</p>
+                        <p>3 hr. ago</p>
                     </div>
                 </a> 
             </li>
