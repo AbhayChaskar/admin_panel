@@ -5,6 +5,7 @@ import Reports from "../Reports/Reports";
 import RecentSales from "../RecentSales/RecentSales";
 import TopSelling from "../TopSelling/TopSelling";
 import RecentActivity from "../RecentActivity/RecentActivity";
+import BudgetReport from "../BudgetReport/BudgetReport";
 
 const Dashboard = () => {
   return (
@@ -26,6 +27,7 @@ const Dashboard = () => {
         </div>
         <div className="col-lg-4">
           <RecentActivity/>
+          <BudgetReport/>
         </div>
       </div>
     </section>
