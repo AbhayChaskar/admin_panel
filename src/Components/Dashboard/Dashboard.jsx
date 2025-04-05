@@ -7,6 +7,7 @@ import TopSelling from "../TopSelling/TopSelling";
 import RecentActivity from "../RecentActivity/RecentActivity";
 import BudgetReport from "../BudgetReport/BudgetReport";
 import WebTraffic from "../WebTraffic/WebTraffic";
+import News from "../News/News";
 
 const Dashboard = () => {
   return (
@@ -22,14 +23,17 @@ const Dashboard = () => {
               <RecentSales />
             </div>
             <div className="col-12">
-              <TopSelling/>
+              <TopSelling />
             </div>
           </div>
         </div>
         <div className="col-lg-4">
-          <RecentActivity/>
-          <BudgetReport/>
-          <WebTraffic/>
+          <RecentActivity />
+          <BudgetReport />
+          <WebTraffic />
+        </div>
+        <div className="col-lg-12">
+          <News />
         </div>
       </div>
     </section>
