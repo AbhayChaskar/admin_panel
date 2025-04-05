@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import CardFilter from "../Card/CardFilter";
+import WebTrafficCharts from "./WebTrafficCharts";
 
 const WebTraffic = () => {
   const [filter, setFilter] = useState("Today");
@@ -13,6 +14,7 @@ const WebTraffic = () => {
         <h5 className="card-title">
           Website Traffic <span>| {filter}</span>
         </h5>
+        <WebTrafficCharts/>
       </div>
     </div>
   );
