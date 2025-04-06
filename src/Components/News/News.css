@@ -1,0 +1,31 @@
+.post-item{
+    margin: 15px 0 20px 0;
+}
+
+.news_image {
+  width: 80px;
+  margin: 0 20px 0 0;
+  float: left;
+  border-radius: 5px;
+}
+
+.news_title {
+  margin: 0 95px 5px 0;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.news_href {
+  text-decoration: none;
+  color: #012970;
+  transition: 0.3s;
+}
+.news_href:hover {
+  color: #4154f1;
+}
+
+.news_subtitle{
+    margin: 0 90px 0 0;
+    font-size: 14px;
+    color: #777777;
+}
