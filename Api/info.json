@@ -118,7 +118,7 @@
     {
       "id": 2,
       "number": "2147",
-      "customer": "Akshay Chaskar",
+      "customer": "Shubham Kharade",
       "product": "Carlington Men Stainless Steel Watch-CT6010",
       "price": 47,
       "status": "Pending"
@@ -134,18 +134,18 @@
     {
       "id": 4,
       "number": "2644",
-      "customer": "Shubham Kharade",
+      "customer": "Swarangi Kokate",
       "product": "Realistic sunglasses with a translucent black glass",
       "price": 67,
-      "status": "Rejected"
+      "status": "Approved"
     },
     {
       "id": 5,
       "number": "3592",
-      "customer": "Swarangi Kokate",
+      "customer": "Akshay Chaskar",
       "product": "Forest Green Urban Gentleman Leather Men's Wallet",
       "price": 79,
-      "status": "Approved"
+      "status": "Rejected"
     }
   ],
   "recentactivity": [
@@ -160,21 +160,21 @@
       "id": 2,
       "time": "57 min",
       "color": "text-danger",
-      "content": "Akshay Chaskar purchased Product 2",
+      "content": "Shubham Kharade Ordered Carlington Men Stainless Steel Watch",
       "highlight": ""
     },
     {
       "id": 3,
       "time": "3 hrs",
       "color": "text-primary",
-      "content": "Pallavi Khot purchased Product 3",
+      "content": "Pallavi Khot Ordered JBL Tune JBLT520BTBLU Bluetooth Headphones",
       "highlight": ""
     },
     {
       "id": 4,
       "time": "1 day",
       "color": "text-info",
-      "content": "Shubham Kharade purchased Product 4",
+      "content": "Swarangi Kokate Purchased Realistic sunglasses with a translucent black glass",
       "highlight": ""
     },
     {
@@ -188,7 +188,7 @@
       "id": 6,
       "time": "2 weeks",
       "color": "text-muted",
-      "content": "Abhay Chaskar purchased Product 1",
+      "content": "Akshay Chaskar Cancelled Forest Green Urban Gentleman Leather Men's Wallet",
       "highlight": ""
     }
   ]
