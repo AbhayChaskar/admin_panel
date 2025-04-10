@@ -28,42 +28,42 @@
   "news": [
     {
       "id": 1,
-      "img": "",
+      "img": "src/assets/AI trend.jpg",
       "title": "Integration of AI in Business Operations",
       "subtitle": "Artificial Intelligence (AI) is increasingly being utilized to transform administrative tasks, sales processes, and reporting mechanisms. By automating repetitive tasks, AI enhances efficiency, supports better decision-making, and improves customer service. This integration allows companies to focus on more complex and strategic activities.",
       "category": "Marketing"
     },
     {
       "id": 2,
-      "img": "",
+      "img": "src/assets/sales forecasting.jpeg",
       "title": "Sales Performance and Forecasts",
       "subtitle": "Retail Sales Growth: In the U.S., retail sales growth is projected to slow to between 2.7% and 3.7% in 2025, down from 3.6% in 2024. Factors contributing to this deceleration include persistent inflation and consumer anxiety.",
       "category": "Sales"
     },
     {
       "id": 3,
-      "img": "",
+      "img": "src/assets/Admin-Report.jpg",
       "title": "Administrative Reports",
       "subtitle": "Businesses are increasingly adopting automated reporting tools to enhance efficiency and accuracy in tracking marketing performance. Automation reduces manual errors and provides real-time insights, enabling more informed decision-making.",
       "category": "Administration"
     },
     {
       "id": 4,
-      "img": "",
+      "img": "src/assets/revenue-forecasting.png",
       "title": "State Revenue Projections",
       "subtitle": "Growth Forecast for Major States: According to CRISIL Ratings, the top 18 Indian states, accounting for over 90% of the country's gross state domestic product, are expected to witness revenue growth of 8-10% in FY25, reaching approximately ₹38 lakh crore. This growth is anticipated to be driven by robust GST collections and central tax devolution.",
       "category": "Revenue"
     },
     {
       "id": 5,
-      "img": "",
+      "img": "src/assets/consumer.jpg",
       "title": "Consumer Technology Sales Forecast",
       "subtitle": "The U.S. consumer technology market is forecasted to rebound with a 1.6% growth in 2025, representing an additional $1.8 billion in revenue. This positive outlook follows a period of decline, suggesting a resurgence in consumer demand for technology products.",
       "category": "Technology"
     },
     {
       "id": 6,
-      "img": "",
+      "img": "src/assets/privacy.webp",
       "title": "Emphasis on Data Privacy",
       "subtitle": "With increasing consumer awareness and stricter regulations, businesses are prioritizing transparent data collection and usage practices. Building trust through ethical data handling has become essential for maintaining brand reputation and customer loyalty.",
       "category": "Privacy"
