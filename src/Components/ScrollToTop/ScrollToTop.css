@@ -1,0 +1,35 @@
+.scroll-to-top {
+  position: fixed;
+  visibility: hidden;
+  opacity: 0;
+  right: 15px;
+  bottom: 15px;
+  z-index: 99999;
+  color: #333333;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  transition: all 0.4s;
+}
+
+.scroll-to-top i {
+  font-size: 40px;
+  color: #333333;
+  line-height: 0;
+}
+
+.scroll-to-top i:hover {
+    font-size: 40px;
+    color: #ffffff;
+    line-height: 0;
+  }
+
+.scroll-to-top:hover {
+  background: #333333;
+  color: #fff;
+}
+
+.scroll-to-top.active {
+  visibility: visible;
+  opacity: 1;
+}
